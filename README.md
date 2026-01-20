@@ -1,1 +1,1 @@
-I changed some of the coordinates in this Google map. I also moved the circle to Memorial Stadium. I added notes to a few of the places here, my favorite being Memorial Stadium, which is home to bad football. I lastly changed the title and the basemap. 
+I changed some of the coordinates in this Google map. I also moved the circle to Memorial Stadium. I added notes to a few of the places here, I lastly changed the title and the basemap. I also did this using visual studio code. 
